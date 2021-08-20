@@ -32,6 +32,5 @@ General:
 
 Bugs:
 	There are no known bugs except a small resizing bug when trying to resize the screen without first clearing (resetting [not pressing R]). When this bug appears it will still the run code and update but very very wonky and produce an index out of bounds error. But if resized before the simulation starts then no error happens. 
-	The professor said this was okay and that no points should be deducted for this. I got approval during his office hours on Wednesday of this week.
-
+	
 
